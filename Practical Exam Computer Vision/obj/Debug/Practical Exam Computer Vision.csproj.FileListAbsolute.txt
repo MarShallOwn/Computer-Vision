@@ -1,0 +1,22 @@
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\Practical Exam Computer Vision.exe.config
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\Practical Exam Computer Vision.exe
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\Practical Exam Computer Vision.pdb
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical Exam Computer Vision.csprojAssemblyReference.cache
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Properties.Resources.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical Exam Computer Vision.csproj.GenerateResource.cache
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical Exam Computer Vision.exe
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical Exam Computer Vision.pdb
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\BCrypt.Net-Next.dll
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Buffers.dll
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Memory.dll
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Numerics.Vectors.dll
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\BCrypt.Net-Next.xml
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Buffers.xml
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Memory.xml
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Numerics.Vectors.xml
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical Exam Computer Vision.csproj.CopyComplete
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Registeration.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Main.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Login.resources

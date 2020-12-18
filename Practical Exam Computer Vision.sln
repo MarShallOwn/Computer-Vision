@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practical Exam Computer Vision", "Practical Exam Computer Vision\Practical Exam Computer Vision.csproj", "{DB382BF7-AE4B-4A2A-B2BD-812E194BF015}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB382BF7-AE4B-4A2A-B2BD-812E194BF015}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB382BF7-AE4B-4A2A-B2BD-812E194BF015}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB382BF7-AE4B-4A2A-B2BD-812E194BF015}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB382BF7-AE4B-4A2A-B2BD-812E194BF015}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C038597-A95F-4839-84CA-913F760113EA}
+	EndGlobalSection
+EndGlobal
