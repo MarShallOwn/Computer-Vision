@@ -25,7 +25,8 @@ namespace Practical_Exam_Computer_Vision
 
         private void button1_Click(object sender, EventArgs e)
         {
-            if(textBox1.Text != string.Empty || textBox2.Text != string.Empty || textBox3.Text != string.Empty)
+            if(textBox1.Text != "" || textBox2.Text != "" || textBox3.Text != "")
+            {
             if (textBox2.Text == textBox3.Text) {
                 string username = textBox1.Text;
                 string password = BCrypt.Net.BCrypt.HashPassword(textBox2.Text, 13);
@@ -42,6 +43,7 @@ namespace Practical_Exam_Computer_Vision
                     catch (SqlException ex)
                     {
                         // the exception alone won't tell you why it failed...
+
                         if (ex.Number == 2627) // <-- but this will
                         {
                             connection.Close();
@@ -52,6 +54,7 @@ namespace Practical_Exam_Computer_Vision
             else
             {
                 MessageBox.Show("Please enter both password same ", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
             }
             else
             {
@@ -71,6 +74,11 @@ namespace Practical_Exam_Computer_Vision
             Login login = new Login();
 
             login.Show();
+        }
+
+        private void Registeration_Load_1(object sender, EventArgs e)
+        {
+
         }
     }
 }

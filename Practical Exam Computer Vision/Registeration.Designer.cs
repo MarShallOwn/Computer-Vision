@@ -135,6 +135,7 @@
             this.Controls.Add(this.textBox1);
             this.Name = "Registeration";
             this.Text = "Registeration";
+            this.Load += new System.EventHandler(this.Registeration_Load_1);
             this.ResumeLayout(false);
             this.PerformLayout();
 

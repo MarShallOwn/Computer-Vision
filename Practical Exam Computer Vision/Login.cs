@@ -35,8 +35,10 @@ namespace Practical_Exam_Computer_Vision
 
                     while (dr.Read())
                     {
+                        user.Id = int.Parse(dr["Id"].ToString());
                         user.username = dr["username"].ToString();
                         user.password = dr["password"].ToString();
+                        user.admin = Convert.ToBoolean(dr["admin"]);
                     }
                     if(user.username == null || user.password == null)
                     {
@@ -46,6 +48,9 @@ namespace Practical_Exam_Computer_Vision
                     {
                         if (BCrypt.Net.BCrypt.Verify(password, user.password) == true)
                         {
+                        LoggedInUser.Id = user.Id;
+                        LoggedInUser.username = user.username;
+                        LoggedInUser.admin = user.admin;
                             connection.Close();
                             MessageBox.Show("Logged In!");
                         this.Hide();
@@ -76,7 +81,9 @@ namespace Practical_Exam_Computer_Vision
 
     public class User
     {
+        public int Id;
         public string username;
+        public bool admin;
         public string password;
     }
 }

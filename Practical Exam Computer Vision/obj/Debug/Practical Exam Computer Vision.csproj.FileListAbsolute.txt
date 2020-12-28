@@ -20,3 +20,9 @@ E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Ex
 E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Registeration.resources
 E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Main.resources
 E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Login.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.AddProduct.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Home.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.Admin.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.DeleteProduct.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.EditProduct.resources
+E:\MarShallOwn's Codes\Visual Studio\Practical Exam Computer Vision\Practical Exam Computer Vision\obj\Debug\Practical_Exam_Computer_Vision.TestForm.resources
