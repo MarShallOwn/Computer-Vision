@@ -52,7 +52,7 @@ namespace Practical_Exam_Computer_Vision
             // loop inside the list of products that is comming from the database {List of Objects}
             while (dr.Read())
             {
-                // Make product Object
+                // Make product Object to store data temporarty
                 Product product = new Product();
                 GroupBox groupBox = new GroupBox();
                 // insert data of the product from database and insert it in the created object
@@ -106,7 +106,7 @@ namespace Practical_Exam_Computer_Vision
             Button button = (Button)sender;
             string productID = button.AccessibleName;
 
-            int y = 0;
+            MessageBox.Show($"Product Bought with ID of {productID}");
         }
 
         private void adminButton_Click (object sender, EventArgs e)
@@ -114,6 +114,17 @@ namespace Practical_Exam_Computer_Vision
             this.Hide();
             Admin admin = new Admin();
             admin.Show();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            LoggedInUser.Id = 0;
+            LoggedInUser.admin = false;
+            LoggedInUser.username = null;
+
+            this.Hide();
+            Login login = new Login();
+            login.Show();
         }
     }
 }

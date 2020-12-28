@@ -27,7 +27,7 @@ namespace Practical_Exam_Computer_Vision
             connection.Open();
             SqlDataReader dr = cmd.ExecuteReader();
 
-            // Make product Object
+            // Make product Object to store data temporary
             Product product = new Product();
 
             // loop inside the list of products that is comming from the database {List of Objects}

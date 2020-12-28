@@ -122,5 +122,12 @@ namespace Practical_Exam_Computer_Vision
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Admin admin = new Admin();
+            admin.Show();
+        }
     }
 }
